@@ -1,0 +1,15 @@
+{
+  "name": "booksbooksbooks",
+  "version": "1.0.0",
+  "description": "Final Project SLIT Modern Web Development Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node-scripts build ./src ./build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^8.1.1"
+  }
+}
